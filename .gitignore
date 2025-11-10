@@ -3,6 +3,7 @@
 
 # Ignorar archivos TIFF
 *.tiff
+*.tif
 
 # Ignorar todo el contenido de la carpeta data
 data/
