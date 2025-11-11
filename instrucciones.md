@@ -7,6 +7,8 @@ Abre el navegador y ve a la página oficial:
 
 Es recomendable registrarse antes de comenzar la descarga. La cuenta es gratuita y permite acceder a todas las funcionalidades y productos satelitales.
 
+[Clic aquí para ver video tutorial de descarga](https://www.youtube.com/watch?v=b3QACJ8AjhA)
+
 ---
 
 ### 2. Buscar la zona de interés
